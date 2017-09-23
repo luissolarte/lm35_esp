@@ -1,6 +1,7 @@
 
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
+// rama 2
 
 // replace with your channel's thingspeak API key,
 String apiKey = "NBCLSVUMKAGF4YIP";
